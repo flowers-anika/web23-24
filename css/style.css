@@ -1,0 +1,29 @@
+.nav{
+    list-style: none;
+    text-align: center;
+
+}
+.nav li {
+    display: inline;
+    margin-right:20px;
+}
+.container {
+    width: 1080;
+    margin: 0 auto;
+    border: 1px solid rgb(255, 164, 249);
+    padding: 10px;
+    background-color: white;
+}
+.grad {
+   background-image: linear-gradient(to right, rgb(255, 148, 234), rgb(255, 255, 167), rgb(132, 255, 132), rgb(148, 207, 255), rgb(211, 145, 255));
+  }
+  div.desc {
+    padding: 15px;
+    text-align: center;
+    background-color: white;
+  }
+  .name{
+    font-size: 20px;
+    font-family: cursive;
+  }
+  
